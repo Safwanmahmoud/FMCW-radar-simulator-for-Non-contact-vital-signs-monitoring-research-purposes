@@ -18,7 +18,9 @@ Calculates radar parameters due to selected configurations
 - Range resolution "frequency wise"
 - Range resolution "phase/angle wise"
 
-Adding objects in front of the radar (Human / static object).
+Adding objects in front of the radar 
+- Humans (Heart rate/ Respiration rate)
+- Static object
 
 Preview range profile.
 
